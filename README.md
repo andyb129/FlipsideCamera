@@ -15,13 +15,13 @@ more useful to open source it so people can expand on it or use elements in thei
 <table border="0">
 <tr>
 <td>
-<img src="https://github.com/andyb129/FlipsideCameras/blob/master/screenshots/flipside_camera_screen_1.png" height="600" alt="Flipside Camera Screen 1"/>
+<img src="https://github.com/andyb129/FlipsideCamera/blob/master/screenshots/flipside_camera_screen_1.png" height="600" alt="Flipside Camera Screen 1"/>
 </td>
 <td>
-<img src="https://github.com/andyb129/FlipsideCameras/blob/master/screenshots/flipside_camera_screen_2.png" height="600" alt="Flipside Camera Screen 2"/>
+<img src="https://github.com/andyb129/FlipsideCamera/blob/master/screenshots/flipside_camera_screen_2.png" height="600" alt="Flipside Camera Screen 2"/>
 </td>
 <td>
-<img src="https://github.com/andyb129/FlipsideCameras/blob/master/screenshots/flipside_camera_screen_3.png" height="600" alt="Flipside Camera Screen 3"/>
+<img src="https://github.com/andyb129/FlipsideCamera/blob/master/screenshots/flipside_camera_screen_3.png" height="600" alt="Flipside Camera Screen 3"/>
 </td>
 </tr>
 </table>
