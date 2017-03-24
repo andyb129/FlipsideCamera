@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Flipside Camera</string>
+
+    <string name="action_item_about_title">About</string>
+    <string name="action_item_help_title">Help</string>
+    <string name="action_item_flash_title">flash toggle</string>
+
+    <string name="has_help_shown_key">prefs_has_help_shown_key</string>
+
+    <string name="top_image_help_text">Swipe RIGHT to add image effects (&#38; swipe left to go to previous effect)</string>
+    <string name="bottom_image_help_text">Same here, Swipe RIGHT to add image effects (&#38; swipe left to go to previous effect)</string>
+    <string name="action_button_help_text">Tap here for actions</string>
+
+    <string name="action_button_help_title">Actions</string>
+    <string name="top_image_help_title">Image Effects Top</string>
+    <string name="bottom_image_help_title">Image Effects Bottom</string>
+
+</resources>

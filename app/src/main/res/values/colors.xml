@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="circle_button_clear">#1976D2</color>
+    <color name="circle_button_swap">#2196F3</color>
+    <color name="circle_button_share">#BBDEFB</color>
+    <color name="circle_button_effect">#CEE8FD</color>
+
+    <color name="circle_button_clear_pressed">#1667b7</color>
+    <color name="circle_button_swap_pressed">#1d84d6</color>
+    <color name="circle_button_share_pressed">#b0dafc</color>
+    <color name="circle_button_effect_pressed">#bfe0fa</color>
+
+</resources>

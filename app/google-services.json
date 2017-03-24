@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "96701118566",
+    "firebase_url": "https://flipside-camera.firebaseio.com",
+    "project_id": "flipside-camera",
+    "storage_bucket": "flipside-camera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96701118566:android:73d8ac7ecb45744b",
+        "android_client_info": {
+          "package_name": "com.sixteenplusfour.android.flipsidecamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96701118566-hg31ogt2udfmfslfmesnbo3qnv71ekqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixteenplusfour.android.flipsidecamera",
+            "certificate_hash": "13666c39dd6e5ca6651d08a9bfc0a4e02d36919f"
+          }
+        },
+        {
+          "client_id": "96701118566-i9rg0sb281h2ar6r6m48ouftgnv1krcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTIu_B_4Xo5ClVnvPemlgChocc-Xs48ys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96701118566-i9rg0sb281h2ar6r6m48ouftgnv1krcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
