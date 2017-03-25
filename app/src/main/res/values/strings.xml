@@ -16,4 +16,8 @@
     <string name="top_image_help_title">Image Effects Top</string>
     <string name="bottom_image_help_title">Image Effects Bottom</string>
 
+    <string name="github_link">https://github.com/andyb129/FlipsideCamera</string>
+    <string name="twitter_link">https://www.twitter.com/andyb129</string>
+    <string name="privacy_policy_link">http://barbuzz.co.uk/privacy-policy/</string>
+
 </resources>

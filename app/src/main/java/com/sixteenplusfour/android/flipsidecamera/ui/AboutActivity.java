@@ -101,7 +101,7 @@ public class AboutActivity extends MaterialAboutActivity {
                         .icon(CommunityMaterial.Icon.cmd_github_circle)
                         .color(ContextCompat.getColor(c, colorIcon))
                         .sizeDp(18))
-                .setOnClickListener(ConvenienceBuilder.createWebsiteOnClickAction(c, Uri.parse("https://github.com/andyb129")))
+                .setOnClickListener(ConvenienceBuilder.createWebsiteOnClickAction(c, Uri.parse(getString(R.string.github_link))))
                 .build());
 
         appCardBuilder.addItem(ConvenienceBuilder.createRateActionItem(c,
@@ -131,7 +131,7 @@ public class AboutActivity extends MaterialAboutActivity {
                         .icon(CommunityMaterial.Icon.cmd_twitter)
                         .color(ContextCompat.getColor(c, colorIcon))
                         .sizeDp(18))
-                .setOnClickListener(ConvenienceBuilder.createWebsiteOnClickAction(c, Uri.parse("https://www.twitter.com/andyb129")))
+                .setOnClickListener(ConvenienceBuilder.createWebsiteOnClickAction(c, Uri.parse(getString(R.string.twitter_link))))
                 .build());
 
         authorCardBuilder.addItem(ConvenienceBuilder.createWebsiteActionItem(c,
@@ -150,7 +150,7 @@ public class AboutActivity extends MaterialAboutActivity {
                         .icon(CommunityMaterial.Icon.cmd_file_document)
                         .color(ContextCompat.getColor(c, colorIcon))
                         .sizeDp(18))
-                .setOnClickListener(ConvenienceBuilder.createWebsiteOnClickAction(c, Uri.parse("http://barbuzz.co.uk/privacy-policy/")))
+                .setOnClickListener(ConvenienceBuilder.createWebsiteOnClickAction(c, Uri.parse(getString(R.string.privacy_policy_link))))
                 .build());
 
         return new MaterialAboutList(
